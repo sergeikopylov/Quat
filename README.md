@@ -1,4 +1,4 @@
 # Quat
 Implementation of quaternions arithmetics
 
-Реализация класса кватернионов на C++
+Quaternion class implementation in C++
